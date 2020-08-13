@@ -37,15 +37,12 @@ def calculation_multiply(first_number, second_number):
 def calculation_divide(first_number, second_number):
     return first_number / second_number
 
-<<<<<<< HEAD
 # This function will perform a modulo operation
 def calculation_modulo(first_number, second_number):
     return first_number % second_number
-=======
 # This function will raise to the power
 def calculation_power(first_number, second_number):
     return first_number ^ second_number
->>>>>>> afca80934eb397f2bcc5296b48c67fc1433a5865
 
 # This is for stretch goal
 #def calculation(first_number, operation, second_number):
